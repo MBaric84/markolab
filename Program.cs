@@ -12,6 +12,9 @@ namespace markolab
     }
     class novaKlasa
     {
-        
-    }
+        static void metoda(int m)
+        {
+            m = m + m;
+        }
+}
 }
