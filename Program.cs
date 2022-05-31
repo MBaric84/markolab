@@ -10,4 +10,8 @@ namespace markolab
             Console.WriteLine("Marino");
         }
     }
+    class novaKlasa
+    {
+        
+    }
 }
